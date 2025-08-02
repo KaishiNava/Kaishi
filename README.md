@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![WhatsApp API](https://files.catbox.moe/hxvnk5.jpg)
+![WhatsApp API](https://files.catbox.moe/afwgjy.jpg)
 
 ### Lisensi
 

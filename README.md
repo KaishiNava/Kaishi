@@ -21,12 +21,12 @@ Modifikasi ini difokuskan untuk membuat versi yang **sepenuhnya berbasis JavaScr
 Install in package.json:
 ```json
 "dependencies": {
-    "baileys": "github:DinzID/DinzV1Baileys"
+    "baileys": "github:KaishiNava/Kaishi"
 }
 ```
 or install in terminal:
 ```
-npm install baileys@github:DinzID/DinzV1Baileys
+npm install baileys@github:KaishiNava/Kaishi
 ```
 
 Then import the default function in your code:

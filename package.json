@@ -1,17 +1,17 @@
 {
-  "name": "DinzID",
+  "name": "Kaishi",
   "version": "25.9.1",
   "description": "baileys whatsapp-api",
   "keywords": [
     "whatsapp",
     "baileys"
   ],
-  "homepage": "https://github.com/DinzID/DinzV1Baileys",
+  "homepage": "https://github.com/KaishiNava/Kaishi",
   "repository": {
-    "url": "https://github.com/DinzID/DinzV1Baileys"
+    "url": "https://github.com/KaishiNava/Kaishi"
   },
   "license": "MIT",
-  "author": "DinzID",
+  "author": "Kaishi",
   "main": "lib/index.js",
   "files": [
     "lib/*",

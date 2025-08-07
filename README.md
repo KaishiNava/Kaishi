@@ -55,11 +55,11 @@ Paket ini `membutuhkan` Node.js versi **20 atau lebih tinggi** untuk berjalan.
 
 Proyek ini secara eksplisit ditujukan untuk lingkungan modern dan tidak mendukung Node versi lama. Dukungan akan selalu mengikuti versi LTS terbaru dari Node.js untuk menjaga performa dan kompatibilitas dengan ekosistem terbaru.
 
-![metadata](https://files.catbox.moe/2q3axe.jpg)
+![metadata](https://files.catbox.moe/zxfetv.jpg)
 
-> **Recode Baileys By DinzID**
+> **Recode Baileys By Kaishi Nava**
 
-[☏ Admin Contact ](https://dinzlinktr.netlify.app/)
+[☏ Admin Contact ]([https://dinzlinktr.netlify.app/](https://whatsapp.com/channel/0029VbB5MpRF1YlMmoM7VH2a))
 
 
-> **Copyright © 2024 - 2025 Naruya Izumi**
+> **Copyright © 2024 - 2025 Kaishi Nava**
